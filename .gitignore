@@ -1,5 +1,6 @@
 #Ignore files
-.nohup.out
+nohup.out
+/.ipybn_checkpoints/
 
 #Data
 /data/
