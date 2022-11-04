@@ -1,6 +1,8 @@
 #Ignore files
-nohup.out
-/.ipybn_checkpoints/
+.nohup.out
 
 #Data
 /data/
+
+#pycache
+/.ipybn_checkpoints
