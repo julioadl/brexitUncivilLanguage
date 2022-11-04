@@ -1,0 +1,62 @@
+[I 15:51:55.797 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 15:51:55.965 NotebookApp] Serving notebooks from local directory: /brexit
+[I 15:51:55.965 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 15:51:55.965 NotebookApp] http://36778083600c:8000/?token=5bba801611bc92f82371c68050b3361a7e2271dc3f55ed66
+[I 15:51:55.965 NotebookApp]  or http://127.0.0.1:8000/?token=5bba801611bc92f82371c68050b3361a7e2271dc3f55ed66
+[I 15:51:55.965 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:51:55.968 NotebookApp] No web browser found: could not locate runnable browser.
+[C 15:51:55.969 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-35-open.html
+    Or copy and paste one of these URLs:
+        http://36778083600c:8000/?token=5bba801611bc92f82371c68050b3361a7e2271dc3f55ed66
+     or http://127.0.0.1:8000/?token=5bba801611bc92f82371c68050b3361a7e2271dc3f55ed66
+[I 15:53:59.535 NotebookApp] 302 GET / (129.31.248.39) 0.850000ms
+[I 15:53:59.572 NotebookApp] 302 GET /tree? (129.31.248.39) 1.120000ms
+[I 15:54:13.659 NotebookApp] Wrote hashed password to /root/.jupyter/jupyter_notebook_config.json
+[I 15:54:13.659 NotebookApp] 302 POST /login?next=%2Ftree%3F (129.31.248.39) 72.320000ms
+[I 15:54:21.943 NotebookApp] Creating new directory in 
+[I 15:54:38.878 NotebookApp] Uploading file to /data/a1989123.csv
+[I 15:54:44.725 NotebookApp] Creating new notebook in 
+[I 15:54:44.763 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[I 15:54:46.777 NotebookApp] Kernel started: 6f286597-9651-41be-96c9-06b3ffbe0e3d, name: python3
+[I 15:56:46.781 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:56:49.247 NotebookApp] Starting buffering for 6f286597-9651-41be-96c9-06b3ffbe0e3d:1e56857a753444fc83eac623e4c395a2
+[I 13:28:33.134 NotebookApp] 302 GET / (129.31.239.138) 0.660000ms
+[I 13:28:33.181 NotebookApp] 302 GET /tree? (129.31.239.138) 0.980000ms
+[W 13:28:53.874 NotebookApp] 401 POST /login?next=%2Ftree%3F (129.31.239.138) 3.130000ms referer=http://155.198.188.223:8014/login?next=%2Ftree%3F
+[I 13:31:06.968 NotebookApp] Wrote hashed password to /root/.jupyter/jupyter_notebook_config.json
+[I 13:31:06.969 NotebookApp] 302 POST /login?next=%2Ftree%3F (129.31.239.138) 61.370000ms
+[W 13:31:14.548 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 13:33:14.988 NotebookApp] Saving file at /Untitled.ipynb
+[W 13:33:14.988 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 13:35:14.975 NotebookApp] Saving file at /Untitled.ipynb
+[W 13:35:14.976 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 13:37:15.098 NotebookApp] Saving file at /Untitled.ipynb
+[W 13:37:15.099 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 13:39:14.980 NotebookApp] Saving file at /Untitled.ipynb
+[W 13:39:14.980 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 13:41:14.984 NotebookApp] Saving file at /Untitled.ipynb
+[W 13:41:14.985 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 13:43:14.997 NotebookApp] Saving file at /Untitled.ipynb
+[W 13:43:14.997 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 13:45:14.984 NotebookApp] Saving file at /Untitled.ipynb
+[W 13:45:14.985 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 13:53:56.473 NotebookApp] Starting buffering for 6f286597-9651-41be-96c9-06b3ffbe0e3d:a65015a75d9e44029f86c675f5728431
+[I 14:34:45.623 NotebookApp] 302 GET / (129.31.235.141) 0.790000ms
+[W 14:34:51.982 NotebookApp] Notebook Untitled.ipynb is not trusted
+[W 14:36:45.734 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 14:38:52.621 NotebookApp] Saving file at /experiments.ipynb
+[W 14:38:52.622 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 14:40:52.647 NotebookApp] Saving file at /experiments.ipynb
+[W 14:40:52.648 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 14:42:12.304 NotebookApp] Starting buffering for 6f286597-9651-41be-96c9-06b3ffbe0e3d:ca771469dd4248f084ae1b6299b20da4
+[I 14:42:12.752 NotebookApp] Kernel restarted: 6f286597-9651-41be-96c9-06b3ffbe0e3d
+[I 14:42:12.857 NotebookApp] Restoring connection for 6f286597-9651-41be-96c9-06b3ffbe0e3d:ca771469dd4248f084ae1b6299b20da4
+[I 14:42:13.195 NotebookApp] Replaying 3 buffered messages
+[I 14:42:52.697 NotebookApp] Saving file at /experiments.ipynb
+[W 14:42:52.699 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 14:44:52.760 NotebookApp] Saving file at /experiments.ipynb
+[I 14:46:52.640 NotebookApp] Saving file at /experiments.ipynb
+[I 14:48:52.619 NotebookApp] Saving file at /experiments.ipynb

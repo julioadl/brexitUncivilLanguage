@@ -1,0 +1,5 @@
+#Ignore files
+.nohup.out
+
+#Data
+/data/
