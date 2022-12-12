@@ -60,3 +60,85 @@
 [I 14:44:52.760 NotebookApp] Saving file at /experiments.ipynb
 [I 14:46:52.640 NotebookApp] Saving file at /experiments.ipynb
 [I 14:48:52.619 NotebookApp] Saving file at /experiments.ipynb
+[I 15:42:41.119 NotebookApp] Starting buffering for 6f286597-9651-41be-96c9-06b3ffbe0e3d:ca771469dd4248f084ae1b6299b20da4
+[I 10:34:44.028 NotebookApp] 302 GET / (129.31.248.32) 1.730000ms
+[I 10:34:44.109 NotebookApp] 302 GET /tree? (129.31.248.32) 4.110000ms
+[W 10:36:16.158 NotebookApp] 401 POST /login?next=%2Ftree%3F (129.31.248.32) 3.140000ms referer=http://155.198.188.223:8014/login?next=%2Ftree%3F
+[I 10:36:24.443 NotebookApp] Wrote hashed password to /root/.jupyter/jupyter_notebook_config.json
+[I 10:36:24.444 NotebookApp] 302 POST /login?next=%2Ftree%3F (129.31.248.32) 66.100000ms
+[W 10:36:32.164 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 10:36:39.442 NotebookApp] Starting buffering for 6f286597-9651-41be-96c9-06b3ffbe0e3d:41dcfc586f2b49f38821278f01d6280c
+[I 10:40:10.937 NotebookApp] Uploading file to /data/Appen_sample2.csv
+[I 10:40:39.223 NotebookApp] Saving file at /data/Appen_sample2.csv
+[W 10:42:02.600 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 10:44:02.963 NotebookApp] Saving file at /experiments.ipynb
+[W 10:44:02.964 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 10:46:02.928 NotebookApp] Saving file at /experiments.ipynb
+[W 10:46:02.929 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 10:48:03.078 NotebookApp] Saving file at /experiments.ipynb
+[W 10:48:03.079 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 10:48:49.642 NotebookApp] Starting buffering for 6f286597-9651-41be-96c9-06b3ffbe0e3d:dde23ce4a2ca43d78406d26c9c2721e2
+[I 10:49:12.563 NotebookApp] Restoring connection for 6f286597-9651-41be-96c9-06b3ffbe0e3d:dde23ce4a2ca43d78406d26c9c2721e2
+[I 10:50:02.969 NotebookApp] Saving file at /experiments.ipynb
+[W 10:50:02.970 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 10:52:03.679 NotebookApp] Saving file at /experiments.ipynb
+[W 10:52:03.680 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 10:56:03.591 NotebookApp] Saving file at /experiments.ipynb
+[W 10:56:03.592 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 10:56:38.149 NotebookApp] Starting buffering for 6f286597-9651-41be-96c9-06b3ffbe0e3d:dde23ce4a2ca43d78406d26c9c2721e2
+[I 11:03:29.194 NotebookApp] Restoring connection for 6f286597-9651-41be-96c9-06b3ffbe0e3d:dde23ce4a2ca43d78406d26c9c2721e2
+[I 11:03:35.994 NotebookApp] Starting buffering for 6f286597-9651-41be-96c9-06b3ffbe0e3d:dde23ce4a2ca43d78406d26c9c2721e2
+[I 10:50:53.914 NotebookApp] 302 GET / (129.31.252.81) 0.770000ms
+[W 10:50:58.600 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 10:51:02.081 NotebookApp] Starting buffering for 6f286597-9651-41be-96c9-06b3ffbe0e3d:ae83a6dee4794c5f88ebf38785bbbd2a
+[I 10:51:38.403 NotebookApp] 302 GET / (129.31.252.81) 0.860000ms
+[I 11:14:40.715 NotebookApp] 302 GET / (129.31.236.198) 0.730000ms
+[I 10:46:59.482 NotebookApp] Serving notebooks from local directory: /brexit
+[I 10:46:59.482 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 10:46:59.482 NotebookApp] http://36778083600c:8000/
+[I 10:46:59.482 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 10:46:59.488 NotebookApp] No web browser found: could not locate runnable browser.
+[I 10:47:23.490 NotebookApp] 302 GET / (129.31.248.5) 0.880000ms
+[I 10:47:23.544 NotebookApp] 302 GET /tree? (129.31.248.5) 0.950000ms
+[I 10:47:28.709 NotebookApp] 302 POST /login?next=%2Ftree%3F (129.31.248.5) 83.150000ms
+[I 10:47:36.603 NotebookApp] Creating new notebook in 
+[I 10:47:38.857 NotebookApp] Kernel started: 5301da4f-2cbe-40a1-ab1c-834b26731474, name: python3
+[I 10:47:57.193 NotebookApp] Starting buffering for 5301da4f-2cbe-40a1-ab1c-834b26731474:c7427e7c9640419ab52c3c93b4e73757
+[I 10:48:01.883 NotebookApp] Kernel shutdown: 5301da4f-2cbe-40a1-ab1c-834b26731474
+[W 10:48:09.879 NotebookApp] delete /new.ipynb
+[I 10:44:57.732 NotebookApp] 302 GET / (129.31.238.169) 0.750000ms
+[I 10:44:57.767 NotebookApp] 302 GET /tree? (129.31.238.169) 0.860000ms
+[I 10:45:01.020 NotebookApp] 302 POST /login?next=%2Ftree%3F (129.31.238.169) 58.840000ms
+[I 10:45:05.982 NotebookApp] 302 GET /tree? (129.31.238.169) 0.380000ms
+[W 10:45:06.391 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (129.31.238.169) 29.720000ms referer=None
+[W 10:45:06.413 NotebookApp] 404 GET /apple-touch-icon.png (129.31.238.169) 2.740000ms referer=None
+[I 10:45:06.464 NotebookApp] 302 GET /tree? (129.31.238.169) 0.750000ms
+[W 10:45:06.655 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (129.31.238.169) 2.360000ms referer=None
+[W 10:45:06.675 NotebookApp] 404 GET /apple-touch-icon.png (129.31.238.169) 2.370000ms referer=None
+[W 10:45:07.180 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (129.31.238.169) 3.050000ms referer=None
+[W 10:45:07.195 NotebookApp] 404 GET /apple-touch-icon.png (129.31.238.169) 2.330000ms referer=None
+[W 10:45:07.455 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 10:45:07.975 NotebookApp] Kernel started: 7137e8b4-8981-4525-9285-8109bcfb7329, name: python3
+[W 10:46:32.700 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 10:46:34.756 NotebookApp] 302 GET / (129.31.238.169) 0.660000ms
+[I 10:46:36.540 NotebookApp] Starting buffering for 7137e8b4-8981-4525-9285-8109bcfb7329:5642e4686ab34efba37e0ba22d58cfb1
+[I 16:15:58.370 NotebookApp] 302 GET / (129.31.235.155) 0.730000ms
+[I 16:17:44.649 NotebookApp] 302 GET / (129.31.235.155) 0.740000ms
+[W 16:18:52.581 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 16:18:56.424 NotebookApp] Starting buffering for 7137e8b4-8981-4525-9285-8109bcfb7329:e8ad71df08384e45a18d97a5e5a7df75
+[I 16:20:48.247 NotebookApp] 302 GET / (129.31.235.155) 0.800000ms
+[I 14:47:33.650 NotebookApp] 302 GET / (129.31.236.157) 0.780000ms
+[I 14:47:33.675 NotebookApp] 302 GET /tree? (129.31.236.157) 0.870000ms
+[I 14:47:36.387 NotebookApp] 302 POST /login?next=%2Ftree%3F (129.31.236.157) 53.630000ms
+[I 14:47:40.249 NotebookApp] 302 GET /tree? (129.31.236.157) 0.390000ms
+[W 14:47:40.477 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (129.31.236.157) 2.580000ms referer=None
+[W 14:47:40.492 NotebookApp] 404 GET /apple-touch-icon.png (129.31.236.157) 2.480000ms referer=None
+[I 14:47:40.576 NotebookApp] 302 GET /tree? (129.31.236.157) 0.870000ms
+[W 14:47:40.627 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (129.31.236.157) 2.390000ms referer=None
+[W 14:47:40.642 NotebookApp] 404 GET /apple-touch-icon.png (129.31.236.157) 2.330000ms referer=None
+[W 14:47:42.898 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (129.31.236.157) 3.220000ms referer=None
+[W 14:47:43.070 NotebookApp] 404 GET /apple-touch-icon.png (129.31.236.157) 1.850000ms referer=None
+[W 14:47:43.095 NotebookApp] Notebook experiments.ipynb is not trusted
+[I 14:48:01.184 NotebookApp] Starting buffering for 7137e8b4-8981-4525-9285-8109bcfb7329:ca85a536a3824743a231dbc1c22063cf
+[I 17:37:07.821 NotebookApp] 302 GET / (129.31.234.21) 0.700000ms
+[W 17:37:10.434 NotebookApp] Notebook experiments.ipynb is not trusted
